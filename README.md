@@ -1,5 +1,5 @@
 # Implementation and Performance analysis of Non-Blind Image Restoration techniques
-###### Functions folder contain all the functions apart from main code, all the functions are written by me not taken from any sources.
-###### GUI and main code folder contain main code and MATLAB GUI figure file. All the lines of code are written by me.
+###### Functions folder contain all the functions apart from main code.
+###### GUI and main code folder contain main code and MATLAB GUI figure file. 
 ###### The image and kernels used for performance analysis of code are in folder image_used. 
-###### There is also a demo video in which show restoration of image by all methods.
+###### There is also a demo video which show image restoration using the above methods.
